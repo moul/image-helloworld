@@ -1,4 +1,4 @@
-Hello-World image on Scaleway [![Build Status](https://travis-ci.org/scaleway/image-helloworld.svg?branch=master)](https://travis-ci.org/scaleway/image-helloworld)
+Hello-World image on Scaleway [![Build Status](https://travis-ci.org/scaleway/image-helloworld.svg?branch=master)](https://travis-ci.org/scaleway/image-helloworld) [![GuardRails badge](https://badges.production.guardrails.io/moul/image-helloworld.svg)](https://www.guardrails.io)
 =============================
 
 Scripts to build the Hello-World image on Scaleway
